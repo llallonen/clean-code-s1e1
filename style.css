@@ -40,6 +40,7 @@ body {
 
 .task-row-wrapper {
   display: flex;
+  margin: 20px 0 0;
 }
 
 ul {
@@ -72,8 +73,7 @@ button:hover {
 }
 
 /* Heading */
-h3,
-label[for="new-task"] {
+h3 {
   color: #333;
   font-weight: 700;
   font-size: 15px;
