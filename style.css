@@ -36,7 +36,7 @@ body {
 .input--text {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .todo-section__item {
@@ -129,7 +129,7 @@ body {
 }
 
 .input--text {
-  width: 226px
+  width: 226px;
 }
 
 .btn--delete img {
@@ -149,16 +149,16 @@ body {
 
 /* Edit Task */
 .todo-section--add .input--text {
-  display: block
+  display: block;
 }
 
 .input--text {
-  display: none
+  display: none;
 }
 
 .todo-section__list-item--editable .input--text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .todo-section__list-item--editable .label {
